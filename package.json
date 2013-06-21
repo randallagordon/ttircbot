@@ -1,6 +1,6 @@
 {
   "name": "ttbot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Turntable.fm Bot",
   "main": "index.js",
   "scripts": {
