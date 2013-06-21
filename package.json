@@ -1,0 +1,19 @@
+{
+  "name": "ttbot",
+  "version": "0.0.0",
+  "description": "A Turntable.fm Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": "",
+  "keywords": [
+    "Turntable",
+    "ttapi"
+  ],
+  "author": "Randall A. Gordon",
+  "license": "MIT",
+  "dependencies": {
+    "ttapi": "~2.4.1"
+  }
+}
