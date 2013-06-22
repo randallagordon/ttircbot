@@ -1,6 +1,6 @@
 {
   "name": "ttircbot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Turntable.fm and IRC Bot—in one!",
   "main": "index.js",
   "scripts": {
