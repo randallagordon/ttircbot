@@ -1,15 +1,16 @@
 {
-  "name": "ttbot",
+  "name": "ttircbot",
   "version": "0.0.1",
-  "description": "A Turntable.fm Bot",
+  "description": "A Turntable.fm and IRC Bot—in one!",
   "main": "index.js",
   "scripts": {
     "test": ""
   },
-  "repository": "",
+  "repository": "https://github.com/randallagordon/ttircbot",
   "keywords": [
     "Turntable",
-    "ttapi"
+    "ttapi",
+    "IRC"
   ],
   "author": "Randall A. Gordon",
   "license": "MIT",
